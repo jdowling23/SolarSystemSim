@@ -1,0 +1,5 @@
+SolarSystem.py conatins the classes and methods for a solar system including sun and planets. Gravitational force is present in this model. 
+
+simple_solar_system.py - run this script for single star solar systems. You can add as many planets as you would like and can set values for the mass, position and velocity of each planetary object
+
+binary_star_system.py - run this script for a binary star system. Can add as many planets as you would like and can set values for the mass, position and velocity of each planetary object
